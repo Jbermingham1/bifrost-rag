@@ -1,0 +1,7 @@
+{"query_id": "q1", "query": "what fruit is rich in potassium?", "relevant_ids": ["banana"]}
+{"query_id": "q2", "query": "the largest land animals on earth", "relevant_ids": ["elephant"]}
+{"query_id": "q3", "query": "black and white striped african animals", "relevant_ids": ["zebra"]}
+{"query_id": "q4", "query": "how does retrieval augmented generation work", "relevant_ids": ["rag"]}
+{"query_id": "q5", "query": "vector database options for embeddings", "relevant_ids": ["vector_db"]}
+{"query_id": "q6", "query": "anthropic large language model", "relevant_ids": ["claude"]}
+{"query_id": "q7", "query": "open standard for ai tool use", "relevant_ids": ["mcp"]}

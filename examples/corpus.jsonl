@@ -1,0 +1,8 @@
+{"id": "apple", "text": "An apple is a sweet, edible fruit produced by an apple tree. The fruit is typically red, green, or yellow and is rich in fibre and vitamin C."}
+{"id": "banana", "text": "A banana is a long curved fruit that grows in clusters. Bananas are rich in potassium and are typically yellow when ripe."}
+{"id": "elephant", "text": "Elephants are large grey mammals with long trunks and tusks. They are the largest living land animals on Earth."}
+{"id": "zebra", "text": "Zebras are African equines distinguished by their distinctive black-and-white striped coats. They are highly social animals."}
+{"id": "rag", "text": "Retrieval-Augmented Generation combines a retrieval step with a generation step. A retriever finds relevant context and a language model uses that context to answer."}
+{"id": "vector_db", "text": "Vector databases store high-dimensional embeddings and support nearest-neighbour search. Common implementations include FAISS, Qdrant, pgvector, and Pinecone."}
+{"id": "claude", "text": "Claude is a family of large language models developed by Anthropic. Claude models support tool use, vision, and long-context reasoning."}
+{"id": "mcp", "text": "The Model Context Protocol is an open standard for connecting AI assistants to external systems. MCP servers expose tools, resources, and prompts to AI clients."}
